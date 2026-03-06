@@ -1,6 +1,4 @@
 import interfaces.Comunicador;
-import interfaces.ServicoEmail;
-import interfaces.ServicoSMS;
 
 public class Main {
     public static void main(String[] args) {

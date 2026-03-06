@@ -1,4 +1,4 @@
-package interfaces;
+import interfaces.Comunicador;
 
 public class ServicoEmail implements Comunicador {
     @Override
